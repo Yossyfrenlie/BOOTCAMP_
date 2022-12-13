@@ -2,7 +2,8 @@
 Selamat datang di _Hotel del Jojo_!
 
 Berikut adalah harga dari kamar-kamar yang kami punya: 
-| | Tipe Kamar | Harga | 
+| | Tipe Kamar | Harga |
+|---|---|---|
 |1| Pantai | ₩3,000,000 |
 |2| Rooftop | ₩4,500,000 |
 |3| Taman | ₩5,000,000 | 

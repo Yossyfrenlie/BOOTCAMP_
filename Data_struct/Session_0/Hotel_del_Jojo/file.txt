@@ -1,0 +1,7 @@
+# Command
+1. mkdir -> to create directories
+2. cd -> to move around your directory structure
+3. ls -> to see a list of all files or folders
+4. mv -> to move files
+5. rm -rf -> to delete the selected file or folder
+6. touch -> to create files
